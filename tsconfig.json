@@ -5,6 +5,7 @@
         "outDir":"./scripts",
         "rootDir":"./",
         "strict":true,
-        "alwaysStrict":true 
+        "alwaysStrict":true,
+        "moduleResolution":"node" 
     }
 }
